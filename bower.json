@@ -1,0 +1,19 @@
+{
+  "name": "home-cash",
+  "description": "HomeCash",
+  "version": "0.0.1-SNAPSHOT",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.5.x",
+    "angular-animate": "1.5.x",
+    "angular-mocks": "1.5.x",
+    "angular-resource": "1.5.x",
+    "angular-route": "1.5.x",
+    "angular-loader": "1.5.x",
+    "bootstrap-css-only": "~3.2.0",
+    "bootstrap": "3.3.x",
+    "html5-boilerplate": "~4.3.0",
+    "jquery": "2.2.x"
+  }
+}
