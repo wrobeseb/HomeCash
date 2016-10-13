@@ -12,8 +12,10 @@
 hs_err_pid*
 /bin/
 /node_modules/
+/bower_components/
 /build/
 /.gradle/
 /.settings/
 /.classpath
 /.project
+/.tmp/
