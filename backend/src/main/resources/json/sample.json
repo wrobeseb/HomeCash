@@ -1,0 +1,38 @@
+[
+      {
+        "value": 2000,
+        "color": "#10c4b5",
+        "highlight": "#0b8e83",
+        "label": "Other",
+        "percentage": 87,
+        "order": 1
+      }, {
+        "value": 1500,
+        "color": "#005562",
+        "highlight": "#002c33",
+        "label": "Search engines",
+        "percentage": 22,
+        "order": 4
+      }, {
+        "value": 1000,
+        "color": "#0e8174",
+        "highlight": "#08453e",
+        "label": "Referral Traffic",
+        "percentage": 70,
+        "order": 3
+      }, {
+        "value": 1200,
+        "color": "#6eba8c",
+        "highlight": "#418b5f",
+        "label": "Direct Traffic",
+        "percentage": 38,
+        "order": 2
+      }, {
+        "value": 400,
+        "color": "#b9f2a1",
+        "highlight": "#59e01f",
+        "label": "Ad Campaigns",
+        "percentage": 17,
+        "order": 0
+      }
+]
