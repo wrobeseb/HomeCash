@@ -7,8 +7,8 @@
 
   angular.module('HomeCash.pages', [
     'ui.router',
-
     'HomeCash.pages.dashboard',
+    'HomeCash.pages.expenses',
 
   ])
       .config(routeConfig);
